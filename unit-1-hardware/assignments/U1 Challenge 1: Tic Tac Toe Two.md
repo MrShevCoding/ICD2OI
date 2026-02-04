@@ -1,4 +1,5 @@
 ### Game name - King of the Hill! 
+Below is our game and this is what we were asked: https://docs.google.com/document/d/1Yt2c0Bacios8U2fp3l5_RCCl-ZgYQ2VZ6rgKIQrEkXI/edit?tab=t.0 
 - The goal of the game is to try to get as many points as possible by the end of the game
 You gain points by banking out your pieces and using abilities to stop your opponent from banking out
 
