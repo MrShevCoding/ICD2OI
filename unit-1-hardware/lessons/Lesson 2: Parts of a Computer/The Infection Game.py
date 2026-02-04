@@ -1,4 +1,5 @@
 # The following link for the infection game from teacher IF you wanna check it out, it's not my work it's his instead: https://codehs.com/sandbox/josephwaters/12-infection-game
+# Their's also this game as well that he reccommended: https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/net.html
 import random
 import time
 import math
