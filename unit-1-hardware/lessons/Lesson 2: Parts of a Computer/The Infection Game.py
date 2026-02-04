@@ -1,4 +1,4 @@
-# The following link for the infection game from teacher IF you wanna check it out, it's not my work it's his: https://codehs.com/sandbox/josephwaters/12-infection-game
+# The following link for the infection game from teacher IF you wanna check it out, it's not my work it's his instead: https://codehs.com/sandbox/josephwaters/12-infection-game
 import random
 import time
 import math
