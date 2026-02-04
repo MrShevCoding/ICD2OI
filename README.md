@@ -1,5 +1,6 @@
-# ICD2OI
-This repo is all of my grade 10 computer science course (including lessons and my work, but I will explain later because apperntly we won't be programming as much), started this course in semester 2 at February 2nd 2026, will say my thoughts later but currently undergoing this course! Mainly the course is called **Digital Technology and Innovations in the Changing World** This is composed of 8 units, with sometimes us doing programming (our language being python) and learning about tech today (like disassembling a pc and learn about those components). There will be etheir a prompt and an explanation that follows and/or the program I did with .py
+# ICD2OI #
+This repo is all of my grade 10 computer science course (including lessons and my work, but I will explain later because apperntly we won't be programming as much), started this course in semester 2 at February 2nd 2026, will say my thoughts later but currently undergoing this course! Mainly the course is called **Digital Technology and Innovations in the Changing World** This is composed of 8 units, with sometimes us doing programming (our language being python) and learning about tech today (like disassembling a pc and learn about those components). There will be etheir a prompt and an explanation with .md that follows and/or the program I did with .py 
+- This mainly to help organize my items and thoughts about this class (if anyone is curious about the grade 10 CS class in highschool, here is a little sneek peek of it!)
 
 
 # Course Description on MyBlueprint
