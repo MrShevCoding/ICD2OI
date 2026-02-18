@@ -7,7 +7,7 @@
 3. Explain the purpose of common motherboard components  
      
    
-![Uploading image.png…]()
+<img width="624" height="379" alt="image" src="https://github.com/user-attachments/assets/41675a07-d2fa-45d3-834f-159f9dc3fb53" />
 
    
 
