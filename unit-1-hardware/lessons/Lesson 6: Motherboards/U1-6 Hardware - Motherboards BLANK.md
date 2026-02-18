@@ -7,6 +7,7 @@
 3. Explain the purpose of common motherboard components  
      
    
+![Uploading image.png…]()
 
    
 
