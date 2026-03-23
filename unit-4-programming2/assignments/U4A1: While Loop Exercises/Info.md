@@ -25,6 +25,8 @@ correctly, and the program should stop.
 
 Extra Challenge: Give the user only 5 guesses before the program tells
 them that they lost and restarts.
+
+
 3. Using Turtle, try to create your own version of this spider’s web using a while loop.
 
 Your spiderweb must have an end - do not create an infinite loop.
