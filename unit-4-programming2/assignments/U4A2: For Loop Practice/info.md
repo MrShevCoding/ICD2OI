@@ -1,6 +1,6 @@
 Do the exercises listed in the For Loop Exercises document: https://docs.google.com/document/d/1tkzic-mp0jriHRaywyXtQGwBHcda_u9PwEw-aPug6PA/edit?tab=t.0
 
-For-Loop Exercises
+For-Loop Exercises (this is the following link for my code on codeHS: https://codehs.com/student/5931675/section/835262/assignment/212568349)
 
 Do the below exercises. To help you with these exercises, refer to the examples found here: [https://codehs.com/sandbox/josephwaters/42-hw-examples](https://codehs.com/sandbox/josephwaters/42-hw-examples)
 
