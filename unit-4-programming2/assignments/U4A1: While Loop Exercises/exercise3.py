@@ -1,4 +1,7 @@
-# 2 types of patterns
+# Were doing 2 types of patterns using python turtle!
+# The first one does a looping inwards square
+# The second one is completely random, sometimes makes stars, pentagons, hexagons, etc
+# I would reccomand new python learners to experiment and tweek the values, see what happens!
 
 # Our imports
 from turtle import *
