@@ -1,5 +1,7 @@
 Here is the link with the following info: https://docs.google.com/document/d/1iS7PAOOwddWRTf7xnfuA8bftZEtVFExa13wrEPU3DGo/edit?tab=t.0#heading=h.pb0m279ex5r5
 
+if you wish to see it on codeHS, here is the link: https://codehs.com/student/5931675/section/835262/assignment/212629557?filepath=Exercise%201.py
+
 Use the new random() functions to complete the following exercises.
 # Random Exercises
 
