@@ -1,0 +1,24 @@
+Lesson 1 Variables and Print
+
+## **Learning goals**
+
+1. Understand the role of variables in a program  
+2. Describe the difference between Python variables and math variables  
+3. Be able to create and modify Python variables  
+   
+
+REMEMBER\!  
+In Python, the equal sign is a command to save some information to a variable in RAM.
+
+| Example Program |  | RAM |  |
+| :---- | ----- | ----- | :---- |
+| myAge \= 82                      \#Step 1 yourAge \= myAge \- 60     \#Step 2  length \= 7                        \#Step 3 width \= 5                         \# Step 4 area \= length \* width       \#Step 5  print(“The area is”, area) | Step 1 | myAge | 82 |
+|  | Step 2 | yourAge | 82-60 |
+|  | Step 3 | Length | 7 |
+|  | Step 4 | Width | 5 |
+|  | Step 5 | Area | 7\*5 |
+
+What does “print” do?:
+
+| Displays data to the user. Cant include ‘strings’ or variables. |
+| :---- |
