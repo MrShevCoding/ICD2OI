@@ -18,6 +18,7 @@ screen.create_line(340,275,300,225,fill="black",width=8,smooth=True)
 
 screen.create_line(340,375,300,425,fill="black",width=8,smooth=True)
 
+screen.mainloop()
 
 # Below were points i was testing to find the optimal bluetooth outline, was annyoing
 #screen.create_oval(295,195,305,205, fill="red")
