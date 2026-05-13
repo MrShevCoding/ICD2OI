@@ -1,3 +1,5 @@
+These aren't mine, these are examples shown to us and honestly their cool as heck!
+
 <img width="590" height="436" alt="image" src="https://github.com/user-attachments/assets/c15d3363-2375-4894-8070-22b6f8496197" />
 
 <img width="590" height="471" alt="image" src="https://github.com/user-attachments/assets/24b8091d-68ca-46d2-ade4-5b4a0b850227" />
