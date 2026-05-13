@@ -34,3 +34,5 @@ You may add stars (or other simple circle patterns such as snow, or rain drops, 
 Imported images are not permitted. You may also not submit any code you have created previously.
 
 You may use gridlines to help you plan your picture, but do not include them in the final program that you turn in.
+
+Reference notes to tkinter: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/create_polygon.html
